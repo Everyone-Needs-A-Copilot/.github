@@ -12,13 +12,15 @@ Everyone Needs A Copilot. If you don't have one, we'd love to be yours.
 
 ### **What We Do**
 
-Copilot helps organizations navigate complex challenges by creating **engaging workshops** that bring together stakeholders to participate in **hands-on activities** like:
+Copilot helps organizations navigate complex challenges by providing **facilitated Design Thinking workshops, strategic engagements, and fractional leadership services** to drive meaningful change and innovation.
 
-- **Idea Generation** – Exploring diverse perspectives to fuel creativity.
-- **Strategic Alignment** – Breaking down silos to build clarity and direction.
-- **Solution Prototyping** – Testing new concepts quickly to drive actionable outcomes.
+#### **Our Core Offerings:**
 
-Our workshops provide a **safe space** for teams to remove egos, hierarchies, and politics—allowing them to focus on real problem-solving. In just a few hours, teams can **accomplish more than they have in months of meetings and emails.**
+- **Design Thinking Workshops** – Facilitate crucial conversations that help teams align, remove barriers, and generate solutions.
+- **Strategic Engagements** – Work alongside leadership to develop innovative business strategies, service models, and experience designs that differentiate in the market.
+- **Fractional Copilot Services** – Embed a seasoned expert within your team to help navigate key challenges, drive decision-making, and accelerate growth.
+
+Through these offerings, we provide a **safe space** for teams to remove egos, hierarchies, and politics—allowing them to focus on real problem-solving. Whether it's a single workshop, a long-term strategic engagement, or embedded leadership support, we help organizations achieve clarity, alignment, and momentum to **thrive**.
 
 ---
 
@@ -107,7 +109,7 @@ A **Fractional Copilot** is an embedded strategic partner who works alongside yo
 
 ## **Why Choose Copilot?**
 
-Unlike traditional consulting firms that aim to **sell you more services**, Copilot is solely focused on helping your organization **have the right conversations** to drive change. Our workshops are **unbiased, results-driven, and tailored to your specific needs,** our Strategic Engagmenets provide you the support to create new innovations to differentiate in the market, and our fractional services are designed to get you through specific seasons of growth.
+Unlike traditional consulting firms that aim to **sell you more services**, Copilot is solely focused on helping your organization **have the right conversations** to drive change. Our workshops are **unbiased, results-driven, and tailored to your specific needs,** our Strategic Engagements provide you the support to create new innovations to differentiate in the market, and our fractional services are designed to get you through specific seasons of growth.
 
 We help organizations:
 ✅ Solve complex problems  
