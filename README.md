@@ -20,7 +20,7 @@ Copilot helps organizations navigate complex challenges by providing **facilitat
 - **Strategic Engagements** – Work alongside leadership to develop innovative business strategies, service models, and experience designs that differentiate in the market.
 - **Fractional Copilot Services** – Embed a seasoned expert within your team to help navigate key challenges, drive decision-making, and accelerate growth.
 
-Through these offerings, we provide a **safe space** for teams to remove egos, hierarchies, and politics—allowing them to focus on real problem-solving. Whether it's a single workshop, a long-term strategic engagement, or temporary embedded advisory or leadership support, we help organizations achieve clarity, alignment, and momentum to **thrive**.
+Through these offerings, we provide a **safe space** for teams to remove egos, hierarchies, and politics—allowing them to focus on real problem-solving. Whether it's a single workshop, a strategic engagement, or temporary embedded advisory or leadership support, we help organizations achieve clarity, alignment, and momentum to **thrive**.
 
 ---
 
